@@ -1,0 +1,39 @@
+#logo{
+    margin: auto;
+}
+
+.gauche{
+    margin: left;
+}
+
+li{
+    display: inline-block;
+}
+
+.foot{
+    text-align: center;
+}
+
+*{
+    font-family: 'Xanh Mono', monospace;
+    background-color:#A400FF;
+    color: #FFBF00;
+    font-weight: bold;
+}
+
+.middle{
+    text-align: center;
+    display: center;
+    margin: center;
+}
+.milieu{display: flex;
+    width: 100%;
+    justify-content: space-around; }
+
+.center{
+    width: 30%;
+}
+
+.centeri{
+    width: 100%;
+}
